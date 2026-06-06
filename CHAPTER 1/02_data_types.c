@@ -16,4 +16,6 @@ int main()
     printf("Float data tyepes value is %f\n", b);
     printf("Character data tyepes value is %c", c);
 
+    return 0;
+
 }
